@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       title:
-        "Rain-slicked city streets come alive with amber reflections as pedestrians navigate the urban rhythm, their silhouettes painting stories against towering buildings and glowing windows.",
+        "Rooted in stone yet reaching toward light, this flowering bonsai embodies centuries of wisdom: that true strength lies not in size, but in graceful adaptation.",
       image: "/slider_img_6.png",
     },
     {
